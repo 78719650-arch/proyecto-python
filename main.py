@@ -1,3 +1,4 @@
+# Proyecto Calculadora - Módulo de funciones principales
 def suma(a, b):
     return a + b
 
